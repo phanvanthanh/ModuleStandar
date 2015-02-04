@@ -7,7 +7,7 @@
  * @license   http://framework.zend.com/license/new-bsd New BSD License
  */
 
-namespace Album2;
+namespace ModuleStandar;
 
 use Zend\Mvc\MvcEvent;
 
